@@ -9,5 +9,5 @@ This makes all your `addEvent` wrapper functions of old totally obsolete. Don't 
 
 ## Compatibility
 
-* IE9+ -- because the older one's already support it :metal:
-* Other browsers -- I'm sure!
+* IE9+! Because the older one's already support it :metal:
+* Other browsers!
