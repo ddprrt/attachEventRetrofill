@@ -16,7 +16,7 @@ This makes all your `addEvent` wrapper functions [of old](http://jsfiddle.net/de
 
 Add this script to your site. Use it:
 
-```
+```javascript
 window.attachEvent('onmousemove', function() {
   alert('I will not let you close this tab');
 });
