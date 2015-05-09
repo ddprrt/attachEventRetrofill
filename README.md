@@ -11,3 +11,13 @@ This makes all your `addEvent` wrapper functions [of old](http://jsfiddle.net/de
 
 * IE9+! Because the older one's already support it :metal:
 * Other browsers!
+
+## Usage
+
+Add this script to your site. Than use it like that:
+
+```
+window.attachEvent('onmousemove', function() {
+  alert('I will not let you close this tab');
+});
+```
