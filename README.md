@@ -14,7 +14,7 @@ This makes all your `addEvent` wrapper functions [of old](http://jsfiddle.net/de
 
 ## Usage
 
-Add this script to your site. Than use it like that:
+Add this script to your site. Use it:
 
 ```
 window.attachEvent('onmousemove', function() {
